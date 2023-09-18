@@ -1,0 +1,3 @@
+mongo pw: sYKSHtg6wIur8Dim
+
+mongodb+srv://nmaahs11:sYKSHtg6wIur8Dim@locallibrarycluster.1iefcg9.mongodb.net/?retryWrites=true&w=majority
